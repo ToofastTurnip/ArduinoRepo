@@ -1,4 +1,5 @@
 # NOTE: NEED TO CLONE https://github.com/andreafabrizi/Dropbox-Uploader FIRST
+# ANOTHER NOTE: This is the default code, I'll need to configure it for my personal dropbox and pi environment to have it work properly
 
 import os
 import subprocess
