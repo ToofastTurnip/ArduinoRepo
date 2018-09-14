@@ -16,4 +16,10 @@ while True:
 
 # Then playback the video with the terminal icon on pi editor interface and enter 'omxplayer {filename}'
 
+# To disable the led so there is no indication that the camera is on:
+# in terminal: sudo nano /boot/config.txt
+# add to end of file: disable_camera_led=1
+# ctrl+o then ctrl+x to save and close
+# in terminal: sudo reboot
+
 # Future plans: upload files automatically to dropbox in the event that the pi is physically compromised
