@@ -1,5 +1,5 @@
 # ArduinoRepo
-Where I'm going to start storing arduino projects  
+Where I put my robots  
 ## Notes
 gasSensorTest: resource error  
 WIP: JSON parsing for wifi module  
